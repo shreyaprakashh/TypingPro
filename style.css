@@ -56,7 +56,7 @@ body {
 }
 
 #startWindow {
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(65, 105, 225, 0.7);
   height: 100%;
   width: 100%;
   top: 0;
@@ -67,7 +67,7 @@ body {
 }
 
 #newTestWindow {
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(65, 105, 225, 0.7);
   height: 100%;
   width: 100%;
   top: 0;
